@@ -7,4 +7,4 @@ I am really happy I completed the game. Now it's your turn to give some time and
 
 Game live at Codepen: https://codepen.io/dev_loop/full/gOYLbge
 
-![Demo](http://i.imgur.com/ZU0qaZz.gif)
+
